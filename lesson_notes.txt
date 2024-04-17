@@ -1,0 +1,3 @@
+https://www.nltk.org
+DataIQ - Aviva korzysta
+Kaggle's competitions - chmura do nauki ML
